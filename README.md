@@ -1,2 +1,2 @@
 # chicken-desease-classification
-Chicken Desease Classification
+Chicken Desease Classification Project
