@@ -32,4 +32,5 @@ if __name__ == "__main__":
         obj.main()
         logger.info(f">>>>>>>> STAGE {STAGE_NAME} completed!<<<<")
     except Exception as e:
+        logger.exception(e)
         raise e
