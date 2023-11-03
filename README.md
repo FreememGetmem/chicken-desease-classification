@@ -13,3 +13,7 @@ Chicken Desease Classification Project
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+## ECR repo to store/save docker images
+635374934580.dkr.ecr.ca-central-1.amazonaws.com/chicken
